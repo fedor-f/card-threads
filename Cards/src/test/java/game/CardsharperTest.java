@@ -1,10 +1,3 @@
-/*
- * CardsharperTest
- *
- * Filippov Fedor
- *
- * Software design. Homework 3.
- */
 package game;
 
 import org.junit.jupiter.api.Test;
